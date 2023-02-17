@@ -1,0 +1,3 @@
+# STILL WORKING ON THIS
+
+Looking just at the numbers, Washington, D.C. teachers generally receive a higher salary than those in the same position in other major cities like Houston. But factoring in the cost of living in various metropolitans, ... 
