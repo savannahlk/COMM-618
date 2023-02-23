@@ -1,4 +1,9 @@
-# STILL WORKING ON THIS
+# DONE
 
-Looking just at the numbers, Washington, D.C. teachers generally receive a higher salary than those in the same position in other major cities like Houston. But factoring in the cost of living in various metropolitans, ... 
-Comparing D.C. salaries to Houston, teachers in the District begin with higher salaries than their Houston counterparts and are likely to see a higher raise in pay the more years they stay in the position. 
+Link to chart, on the sheet "Assignment 6 chart": https://docs.google.com/spreadsheets/d/1iGTGRWnZfH2smkoSO45zmY7czbFizZ-GKqPNOdMICDE/edit?usp=sharing
+
+This chart illustrates a direct salary comparison between D.C. and Houston teachers based on years of experience. The data came from the District of Columbia Department of Human Resources and the Texas Education Agency’s annual Academic Performance Report for Houston ISD.
+
+Teachers in Washington, D.C. can not only expect to make a higher starting salary than their counterparts in Houston, but these educators are also in a position to see better increases in pay the more years they stay in the profession. At the beginning of their teaching careers, D.C. teachers typically make about $20,000 more than Houston teachers in their first five years. By the time these educators have spent between six and ten years teaching in these cities, that pay disparity will have already grown to about $34,000. And while D.C. teachers on average begin to make six figures after a decade of experience, those in Houston will generally still be earning around $78,000 after more than 30 years teaching.
+
+Although a direct comparison shows D.C. teachers coming out ahead, the two cities do differ when it comes to cost of living, an important factor when considering pay. For example, someone who has taught in a D.C. public school for six to ten years will earn on average around $90,000, while a teacher who has spent the same number of years in a Houston public school would earn closer to $57,000 a year. However, that D.C. teacher living alone in the District limits will have to stretch their salary to cover expenses in a city where the average cost of living [is around $2,700 a month](https://livingcost.org/cost/united-states/dc/washington). By comparison, a teacher living by themself in Houston proper must budget for around $2,100 a month, [according to Livingcost.org](https://livingcost.org/cost/united-states/tx/houston). 
