@@ -1,5 +1,5 @@
-# DCPS salaries struggle against pandemic burdens
-## Teachers in D.C. earn some of the highest salaries of any major city, yet COVID-19 and district conditions still weigh on retention rates.
+# DCPS salaries attempt to keep teachers in the District
+## Teachers in D.C. earn some of the highest salaries of their profession compared to other major cities, yet COVID-19 and district conditions still weigh on retention rates.
 
 Last May, D.C. Public Schools [rolled out a series of new advertisements](https://dcps.dc.gov/release/dc-public-schools-launches-advertisement-campaign-expand-teacher-workforce) recruiting potential educators to what one banner calls “one of the highest paying teacher workforces in the nation!” 
 
@@ -12,7 +12,7 @@ During their first five years on the job, a D.C. teacher will make about $20,000
 <img width="1057" alt="Chart 1" src="https://user-images.githubusercontent.com/123258480/221330524-94e633ea-3a85-4a6b-8742-b8fdfe589dae.png">
 
 
-Financial incentives in the form of higher salaries and bonuses for certain positions is a recruiting strategy for DCPS. And [numbers from the Office of the State Superintendent of Education in D.C.](https://osse.dc.gov/page/district-columbia-educator-retention) show teacher retention rates improving in recent years. Between the 2020-21 and 2021-22 school years, 12% of teachers left the district, down from the 16% that left right before the 2019-20 school year and start of the pandemic.
+Financial incentives in the form of higher salaries and bonuses for certain positions is a recruiting strategy for DCPS. And [numbers from the Office of the State Superintendent of Education in D.C.](https://osse.dc.gov/page/district-columbia-educator-retention) show retention rates of current teachers improving in recent years. Between the 2020-21 and 2021-22 school years, 12% of teachers left the district, down from the 16% that left right before the 2019-20 school year and start of the pandemic.
 
 This most recent retention number puts D.C. on track with [the latest national statistic](https://nces.ed.gov/programs/coe/indicator/slc), which showed that about a decade ago between 2011 and 2013, around 11% of teachers left for another school district or the profession entirely, according to the National Center for Education Statistics. 
 
@@ -26,7 +26,7 @@ A [2021 report by the RAND Corporation](https://www.rand.org/pubs/research_repor
 
 COVID-19-related challenges continue for teachers, despite the pandemic drawing to a close and schools reopening, said Jennifer Steele, associate professor at American’s School of Education and expert in education policy and economics.
 
-“When kids come back to school after the pandemic, they're stressed, they're still having trauma from the pandemic and from school closures. And so teachers are dealing with that as well, while teachers are also dealing with the health stressors from their own families. So teachers have been under a lot of pressure since the pandemic,” Steele said.
+“When kids come back to school after the pandemic, they're stressed. They're still having trauma from the pandemic and from school closures. And so teachers are dealing with that as well, while teachers are also dealing with the health stressors from their own families. So teachers have been under a lot of pressure since the pandemic,” Steele said.
 
 In her job teaching master’s degree students, many of whom are DCPS teachers, Steele said she hears firsthand some of their disappointment with the profession.
 
@@ -40,6 +40,8 @@ In past negotiations with DCPS, Shand said the Washington Teachers Union, repres
 
 “They did want to achieve at least pay parity with suburbs. They didn't want teachers leaving D.C. to go to the suburbs. They wanted to make it a sustainable career for teachers that could support a family and live in the D.C. area, and so they prioritized compensation. And DCPS in essence asked in exchange for more time from teachers and more control over teachers' time,” Shand said.
 
+Washington Teachers Union and DCPS did not respond to multiple requests for comment.
+
 <img width="1057" alt="Chart 2" src="https://user-images.githubusercontent.com/123258480/221330895-750b84cd-aa0f-4f53-94dc-14f66c465a84.png">
 
 
@@ -50,3 +52,13 @@ A [2022 survey of educators by the Chicago chapter of Educators for Excellence](
 While higher pay is desirable and could help attract new or keep current teachers, the experts say it is more often a secondary concern.
 
 “Teachers will change their location (and) they will change what kind of school they teach in for financial incentives, but they won't change it dramatically,” Steele said. “Fifteen to 25% will change their behavior for substantial incentives, but there's so much more. There's just the experience of feeling like your job is doable, and that you're supported in doing your job.”
+
+-30-
+
+---
+
+Spreadsheets: 
+
+https://docs.google.com/spreadsheets/d/1bLNy9Nz7F8k7DEEG-myjs2dh_DGa2P8auJIMvYMCVYE/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1iGTGRWnZfH2smkoSO45zmY7czbFizZ-GKqPNOdMICDE/edit?usp=sharing
