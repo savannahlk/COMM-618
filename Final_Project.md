@@ -9,6 +9,9 @@ According to reported salaries from D.C. Human Resources and salary schedules fr
 
 In their first five years, a D.C. teacher will make about $20,000 more than a Houston teacher’s and almost $28,000 higher than that of a Memphis teacher. By the time that D.C. educator has spent a little more than a decade in the position, they could see their salary hit six figures, while those in Houston and Memphis who spend over thirty years teaching would still be earning around $78,000 and $71,000, respectively.
 
+<img width="1057" alt="Chart 1" src="https://user-images.githubusercontent.com/123258480/221330524-94e633ea-3a85-4a6b-8742-b8fdfe589dae.png">
+
+
 Financial incentives in the form of higher salaries and bonuses for certain positions is a recruiting strategy for DCPS. And [numbers from the Office of the State Superintendent of Education in D.C.](https://osse.dc.gov/page/district-columbia-educator-retention) show teacher retention rates improving in recent years. Between the 2020-21 and 2021-22 school years, 12% of teachers left the district, down from the 16% that left right before the 2019-20 year and pandemic.
 
 This most recent retention number puts D.C. on track with [the latest national statistic](https://nces.ed.gov/programs/coe/indicator/slc), which showed that about a decade ago between 2011 and 2013, around 11% of teachers left for another school district or the profession entirely, according to the National Center for Education Statistics. 
@@ -36,6 +39,9 @@ Teachers face other challenging work conditions that are specific to D.C. public
 In past negotiations with DCPS, Shand said the Washington Teachers Union, representing public school teachers across the District, prioritized better salaries and conceded to conditions including more staff development days.
 
 “They did want to achieve at least pay parity with suburbs. They didn't want teachers leaving D.C. to go to the suburbs. They wanted to make it a sustainable career for teachers that could support a family and live in the D.C. area, and so they prioritized compensation. And DCPS in essence asked in exchange for more time from teachers and more control over teachers' time,” Shand said.
+
+<img width="1057" alt="Chart 2" src="https://user-images.githubusercontent.com/123258480/221330895-750b84cd-aa0f-4f53-94dc-14f66c465a84.png">
+
 
 In Boston, where teacher salaries are on average slightly above those in D.C., retention of public school teachers in 2022 was 83%, according to [the Massachusetts Department of Elementary and Secondary Education](https://profiles.doe.mass.edu/profiles/teacher.aspx?orgcode=00350000&orgtypecode=5&leftNavId=15619&). 
 
